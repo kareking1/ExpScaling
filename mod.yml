@@ -1,0 +1,11 @@
+assets:
+- name: 00battle.bin
+  method: binarc
+  source:
+  - name: lvpm
+    type: list
+    method: listpatch
+    source:
+    - name: LvpmList.yml
+      type: lvpm
+title: ExpScaling
